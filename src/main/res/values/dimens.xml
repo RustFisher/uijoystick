@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="ui_joystick_hor_margin">15dp</dimen>
-    <dimen name="ui_joystick_bottom_margin">15dp</dimen>
 
     <!-- 控制盘的大小 -->
     <dimen name="ui_joystick_pad_size">180dp</dimen>
